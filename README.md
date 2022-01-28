@@ -5,7 +5,7 @@ De nos jours le premier réflexe que l’on a lorsque l’on veut regarder un fi
 
 ## Problématiques rencontrées :
 
-Analyse de plateforme de streaming : Existe-t-il des films en commun sur les plateformes de streaming ? Quels sont les meilleurs films ? Quelles plateformes choisir ?
+Analyse de plateforme de streaming : Existe-t-il des films en commun sur les plateformes de streaming ? Quels sont les catégories les plus présentes ? Quelles plateformes choisir ?
 
 ## Compétences développées :
 
