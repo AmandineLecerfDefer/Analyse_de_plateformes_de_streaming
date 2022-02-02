@@ -38,7 +38,7 @@ Une première version a été réalisée avec le logiciel Tableau, éléments pr
 ## Fabriqué avec
 
 * kaggle - Données présentes dans le dossier _1_original_data_
-* [MySQL Server] - Installation base d edonnées MySQL
+* MySQL Server - Installation base d edonnées MySQL
 * [MySQL workbench](https://www.mysql.com/fr/products/workbench/) - Gestion et administration de base de données
 * [Talend](https://www.talend.com/) - Intégration de données
 * [Tableau](https://www.tableau.com/fr-fr) - Editeur de Dashboard
